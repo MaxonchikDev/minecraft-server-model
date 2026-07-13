@@ -6,7 +6,6 @@ I have provided all the files needed to set up a Minecraft server on your own co
 
 Install the latest version of Java from the official source https://www.java.com/.
 You need to select a server core and download it from the internet, then rename the downloaded file to `server.jar` (I'll soon provide a menu with built-in versions so you don't have to go to any extra trouble and can download the core right here).
-My server.jar is version 26.1.2 Paper.
 Start "start.bat"
 Server's online!
 
